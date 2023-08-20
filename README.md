@@ -4,5 +4,8 @@ ModelScope社区提供了开源模型Qwen-7B的快速体验脚本
 <div align="center">
   <img src="img/pic1.jpg">
 </div>
+<div align="center">
+  <img src="img/pic2.jpg">
+</div>
 但是脚本本身只有命令行的输出，这里给脚本套了一个web壳，运行后会提供一个web界面，体验感应该会好一点。
 
