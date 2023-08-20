@@ -13,7 +13,7 @@ def answer(question):
 iface = gr.Interface(fn=answer,
                      inputs=gr.inputs.Textbox(lines=7, label="输入问题"),
                      outputs="text",
-                     title="通意千问-7B-Chat")
+                     title="Qwen-7B-Chat-FastWeb")
 
 if __name__ == "__main__":
     iface.launch(share=False)
