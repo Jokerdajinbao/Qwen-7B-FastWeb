@@ -23,7 +23,7 @@ pip install -r requirements.txt
 然后用python运行主程序即可： 
 
 ```bash
-python qwen_web,py
+python web_demo.py
 ```
 
 程序会自动从ModelScope社区拉取与上方脚本一致的模型并运行，如下图所示： 
