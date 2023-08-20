@@ -1,5 +1,5 @@
 # Qwen-7B-Chat-FastWeb
-基于ModelScope社区开源Qwen-7B-Chat体验程序修改的web版本，以方便快速体验。
+基于ModelScope社区开源的通意千问Qwen-7B-Chat体验程序修改的web版本，以方便快速体验。
 
 ModelScope社区提供了开源模型Qwen-7B的快速体验脚本，脚本和运行效果如下所示：
 
@@ -30,7 +30,7 @@ python qwen_web,py
 <div align="center">
   <img src="img/pic4.jpg">
 </div>
-经测试，在阿里云服务器上模型的下载速度非常快，V100的显卡也不会爆显存，不过这里的版本号似乎是最小的一个，如果想体验完整的程序，还是得到ModelScope页面下载Qwen最新的模型，去Qwen官方的GitHub页下载官方的体验Demo。
+经测试，在阿里云服务器上模型的下载速度非常快，V100的显卡也不会爆显存，不过这里的版本号似乎是最小的一个，如果想体验完整的程序，还是得到Qwen的ModelScope页面下载通意千问最新的模型，去Qwen官方的GitHub页下载通意千问官方的体验Demo。
 
 相关链接：
 
