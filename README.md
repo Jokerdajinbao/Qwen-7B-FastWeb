@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python qwen_web,py
 ```
 
-程序会自动从ModelScope社区拉取与上方脚本一致的模型并运行.如下图所示： 
+程序会自动从ModelScope社区拉取与上方脚本一致的模型并运行，如下图所示： 
 <div align="center">
   <img src="img/pic3.jpg">
 </div>
