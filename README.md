@@ -34,4 +34,4 @@ python qwen_web,py
 
 [Qwen-7B-Chat的GitHub地址](https://github.com/QwenLM/Qwen-7B)
 
-当然，也可以去Qwen的[HuggingFace地址](https://huggingface.co/Qwen/Qwen-7B-Chat)下载模型文件
+当然，也可以去[Qwen-7B-Chat的HuggingFace地址](https://huggingface.co/Qwen/Qwen-7B-Chat)下载模型文件
