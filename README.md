@@ -1,4 +1,4 @@
-# Qwen-7B-FastWeb
+# 通意千问 Qwen-7B-FastWeb
 基于ModelScope社区开源的通意千问Qwen-7B-Chat体验程序修改的Web版本，以方便快速体验。
 
 ModelScope社区提供了开源模型Qwen-7B的快速体验脚本，脚本和运行效果如下所示：
@@ -34,8 +34,8 @@ python qwen_web,py
 
 相关链接：
 
-[Qwen-7B-Chat的ModelScope地址](https://modelscope.cn/models/qwen/Qwen-7B-Chat/summary)
+[Qwen-7B-Chat的ModelScope🤖地址](https://modelscope.cn/models/qwen/Qwen-7B-Chat/summary)
 
 [Qwen-7B-Chat的GitHub地址](https://github.com/QwenLM/Qwen-7B)
 
-[Qwen-7B-Chat的HuggingFace地址](https://huggingface.co/Qwen/Qwen-7B-Chat)
+[Qwen-7B-Chat的HuggingFace🤗地址](https://huggingface.co/Qwen/Qwen-7B-Chat)
