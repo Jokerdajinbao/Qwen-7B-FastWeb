@@ -30,7 +30,7 @@ python qwen_web,py
 <div align="center">
   <img src="img/pic4.jpg">
 </div>
-经测试，在阿里云服务器上模型的下载速度非常快，V100的显卡也不会爆显存，不过这里的版本号似乎是最小的一个，如果想体验完整的程序，还是得到ModelScope页面下载Qwen最新的模型，去Qwen官方的GitHub页下载官方的体验demo。
+经测试，在阿里云服务器上模型的下载速度非常快，V100的显卡也不会爆显存，不过这里的版本号似乎是最小的一个，如果想体验完整的程序，还是得到ModelScope页面下载Qwen最新的模型，去Qwen官方的GitHub页下载官方的体验Demo。
 
 相关链接：
 
