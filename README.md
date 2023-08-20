@@ -1,4 +1,4 @@
-# Qwen-7B-Chat-FastWeb
+# Qwen-7B-FastWeb
 基于ModelScope社区开源的通意千问Qwen-7B-Chat体验程序修改的web版本，以方便快速体验。
 
 ModelScope社区提供了开源模型Qwen-7B的快速体验脚本，脚本和运行效果如下所示：
