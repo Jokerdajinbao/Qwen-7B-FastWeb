@@ -37,8 +37,8 @@ python Qwen_demo.py
 
 相关链接：
 
-[Qwen-7B-Chat的ModelScope🤖地址](https://modelscope.cn/models/qwen/Qwen-7B-Chat/summary)
+[Qwen-7B-Chat的🤖ModelScope地址](https://modelscope.cn/models/qwen/Qwen-7B-Chat/summary)
 
-[Qwen-7B的GitHub📃地址](https://github.com/QwenLM/Qwen-7B)
+[Qwen-7B的📃GitHub地址](https://github.com/QwenLM/Qwen-7B)
 
-[Qwen-7B-Chat的HuggingFace🤗地址](https://huggingface.co/Qwen/Qwen-7B-Chat)
+[Qwen-7B-Chat的🤗HuggingFace地址](https://huggingface.co/Qwen/Qwen-7B-Chat)
