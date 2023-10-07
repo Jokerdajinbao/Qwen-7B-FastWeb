@@ -1,4 +1,4 @@
 torch>=1.12
 modelscope>=1.7.2
 transformers_stream_generator
-gradio
+gradio==0.39.0
